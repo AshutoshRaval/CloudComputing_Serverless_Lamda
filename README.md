@@ -14,9 +14,12 @@ The Repository has the Code for the server less lamda funtion which is triggered
 - Sending an email about the relase download status to the user who submited request
 - Maintaing the record in the dynamoDB
 
-Common issue encountered
+**Common issue encountered**
 - Install the dependency using the 'npm i' command
 - Create a new folder 'nodejs' and then move the node module folder into it, reason for the this the additional node module layer
 - Check for the environment variables and its values passed through the pulumi code wile lamda creation
 
-Note : Use Visual studio code extension to upload the lamda code. It simplifes the upload and debugging steps for lamda.
+Note : Use Visual studio code extension name 'AWS Tool kit' to upload the lamda code. It simplifes the upload and debugging steps for lamda.
+
+For more Quries or issues encounter please contact at **ashutosh.raval@outlook.com**
+
